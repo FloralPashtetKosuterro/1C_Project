@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Catalog.ИнструментыДляПисьма" id="8229c75d-da03-4d24-8b93-c2206218d3fa" configVersion="a0a1ffab58e4e044a804876c5cf227d700000000">
-			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.НазваниеТовара" id="00480a2f-65c5-4811-8a90-4b5e6e4c7150"/>
+		<Metadata name="Catalog.ИнструментыДляПисьма" id="8229c75d-da03-4d24-8b93-c2206218d3fa" configVersion="0d80994ca8875d468e9fcb3c7e6d841300000000">
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.Модель" id="00480a2f-65c5-4811-8a90-4b5e6e4c7150"/>
 			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.ТочноеНазваниеПроизводителя" id="1dcd1fb2-11f2-4dfd-9ad5-7d49d28bcfb3"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.Бренд" id="64e75047-1d97-45bb-9317-e70e8cf8c620"/>
 			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.КоличествоТовара" id="a74b6809-d9c7-462c-82de-03f8878c3b01"/>
 			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда" id="e5623b6a-8e92-453c-af90-add2b32813c6"/>
 			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.СтранаПроизводства" id="ec6ce1e5-f64d-446f-bc0d-0289e754540d"/>
