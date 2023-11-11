@@ -216,8 +216,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Склад</Subsystem>
+			<Subsystem>ОказаниеУслуг</Subsystem>
+			<Subsystem>РасчётЗарплаты</Subsystem>
 			<Catalog>ИнструментыДляПисьма</Catalog>
-			<Catalog>Расходники</Catalog>
 			<Catalog>Сотрудники</Catalog>
 		</ChildObjects>
 	</Configuration>

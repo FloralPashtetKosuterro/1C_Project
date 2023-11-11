@@ -1,23 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Catalog.ИнструментыДляПисьма" id="8229c75d-da03-4d24-8b93-c2206218d3fa" configVersion="c6e4dd74fae2174a89a3a558d2aa847e00000000">
-			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.ТочноеНазвание" id="1dcd1fb2-11f2-4dfd-9ad5-7d49d28bcfb3"/>
-			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.КоличествоТовара" id="d5ed1e87-a6c2-4e72-91b9-70bddf1d81f9"/>
+		<Metadata name="Catalog.ИнструментыДляПисьма" id="8229c75d-da03-4d24-8b93-c2206218d3fa" configVersion="a0a1ffab58e4e044a804876c5cf227d700000000">
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.НазваниеТовара" id="00480a2f-65c5-4811-8a90-4b5e6e4c7150"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.ТочноеНазваниеПроизводителя" id="1dcd1fb2-11f2-4dfd-9ad5-7d49d28bcfb3"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.КоличествоТовара" id="a74b6809-d9c7-462c-82de-03f8878c3b01"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда" id="e5623b6a-8e92-453c-af90-add2b32813c6"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.СтранаПроизводства" id="ec6ce1e5-f64d-446f-bc0d-0289e754540d"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.TabularSection.ТоварыБренда.Attribute.ЦенаТовара" id="ecbfa05a-e2b5-4725-aaaa-d39172c4d039"/>
 		</Metadata>
-		<Metadata name="Catalog.Расходники" id="07a1a79c-4383-4357-8169-78d68a86eb0b" configVersion="105f2de6f069524dbc81d6f3fa39fe9800000000">
-			<Metadata name="Catalog.Расходники.Attribute.Количество" id="633b965c-41ec-4d1c-9978-24b93ea045c1"/>
-			<Metadata name="Catalog.Расходники.Attribute.НазваниеРасходника" id="7d6547a5-bc20-4513-9b82-4b4c3668b2bf"/>
-		</Metadata>
-		<Metadata name="Catalog.Сотрудники" id="cf90c01e-1aba-4dec-bc20-8f34553f6fb8" configVersion="06aad272a36b4a409736c7fc9ea14a4e00000000">
+		<Metadata name="Catalog.Сотрудники" id="cf90c01e-1aba-4dec-bc20-8f34553f6fb8" configVersion="caeddb3821ecf546ad6106bbfcbd8a5000000000">
 			<Metadata name="Catalog.Сотрудники.TabularSection.СоставСемьи" id="788253d2-217e-4aea-8d32-54771a7cb658"/>
 			<Metadata name="Catalog.Сотрудники.TabularSection.СоставСемьи.Attribute.СтепеньРодства" id="9f0131c4-f172-460f-a520-d157954b73c5"/>
 			<Metadata name="Catalog.Сотрудники.TabularSection.СоставСемьи.Attribute.Имя" id="a5ebca4d-b15c-4a99-a493-a528acb62897"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Возраст" id="af9243f3-5f24-4cf1-a7b6-454b821590a3"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.ФамилияИмяОтчество" id="e6cdf514-fa67-4c84-8d45-0df04225da2d"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="9d3ad3501a73cd4a84cffa37dbd77d6900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="db43c3f4a0071846bd924c626393c91100000000"/>
 		<Metadata name="Language.Русский" id="2990306c-6542-49e9-9da0-c45dc2ec601e" configVersion="5f8a1ed9a773714ea052042dd59a401400000000"/>
-		<Metadata name="Subsystem.Склад" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4" configVersion="b6650eb3582f6347bdff1ce55a1dd51800000000"/>
+		<Metadata name="Subsystem.ОказаниеУслуг" id="0c1c769b-1f8b-48c3-96b4-69705d44a0b1" configVersion="572a4d6375dced43a9a662c870720ee800000000"/>
+		<Metadata name="Subsystem.ОказаниеУслуг.CommandInterface" id="0c1c769b-1f8b-48c3-96b4-69705d44a0b1.1" configVersion="360141e899e9654989ba4c92add60c6a00000000"/>
+		<Metadata name="Subsystem.РасчётЗарплаты" id="74f04a29-981a-4374-8b86-00b9319e9f53" configVersion="880549aba819b541ba6b0e073371b7e200000000"/>
+		<Metadata name="Subsystem.РасчётЗарплаты.CommandInterface" id="74f04a29-981a-4374-8b86-00b9319e9f53.1" configVersion="a22dd2161ab4ad42b9e5619a05b9865200000000"/>
+		<Metadata name="Subsystem.Склад" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4" configVersion="f519551f5539e940824b4446001bd2e400000000"/>
+		<Metadata name="Subsystem.Склад.CommandInterface" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4.1" configVersion="fd77def958d1bc4ca7400affcb4f265d00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
