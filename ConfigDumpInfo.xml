@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.ИнструментыДляПисьма" id="8229c75d-da03-4d24-8b93-c2206218d3fa" configVersion="bb1a611a2baf224ca4b3026949378efa00000000">
+			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.ТочноеНазвание" id="1dcd1fb2-11f2-4dfd-9ad5-7d49d28bcfb3"/>
+			<Metadata name="Catalog.ИнструментыДляПисьма.Attribute.КоличествоТовара" id="d5ed1e87-a6c2-4e72-91b9-70bddf1d81f9"/>
+		</Metadata>
+		<Metadata name="Catalog.Расходники" id="07a1a79c-4383-4357-8169-78d68a86eb0b" configVersion="a6378d4a59462a4c938be9838cdfb1e500000000">
+			<Metadata name="Catalog.Расходники.Attribute.Количество" id="633b965c-41ec-4d1c-9978-24b93ea045c1"/>
+			<Metadata name="Catalog.Расходники.Attribute.НазваниеРасходника" id="7d6547a5-bc20-4513-9b82-4b4c3668b2bf"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="cf90c01e-1aba-4dec-bc20-8f34553f6fb8" configVersion="b4037c056aedca49a604894b2366186400000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Возраст" id="af9243f3-5f24-4cf1-a7b6-454b821590a3"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Реквизит1" id="e6cdf514-fa67-4c84-8d45-0df04225da2d"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="9d3ad3501a73cd4a84cffa37dbd77d6900000000"/>
+		<Metadata name="Language.Русский" id="2990306c-6542-49e9-9da0-c45dc2ec601e" configVersion="5f8a1ed9a773714ea052042dd59a401400000000"/>
+		<Metadata name="Subsystem.Склад" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4" configVersion="b6650eb3582f6347bdff1ce55a1dd51800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
