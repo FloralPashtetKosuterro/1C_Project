@@ -16,11 +16,15 @@
 			<Metadata name="Catalog.Сотрудники.TabularSection.СоставСемьи.Attribute.Имя" id="a5ebca4d-b15c-4a99-a493-a528acb62897"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Возраст" id="af9243f3-5f24-4cf1-a7b6-454b821590a3"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="db43c3f4a0071846bd924c626393c91100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="d80b6fa780e1184cb6174e53f426cf2500000000"/>
+		<Metadata name="Document.ДокументРасчётЗарплаты" id="95955aa8-eaa7-4cad-9746-e7c8b034d07b" configVersion="311afda559b5624588c320ed0b6c660300000000">
+			<Metadata name="Document.ДокументРасчётЗарплаты.Attribute.РазмерЗП" id="1592d8e5-3098-4ea2-a6a9-7616f96e38ca"/>
+			<Metadata name="Document.ДокументРасчётЗарплаты.Attribute.Сотрудник" id="6bc1dacb-428e-4c12-b578-1bb6c5e3b9c1"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="2990306c-6542-49e9-9da0-c45dc2ec601e" configVersion="5f8a1ed9a773714ea052042dd59a401400000000"/>
 		<Metadata name="Subsystem.ОказаниеУслуг" id="0c1c769b-1f8b-48c3-96b4-69705d44a0b1" configVersion="572a4d6375dced43a9a662c870720ee800000000"/>
 		<Metadata name="Subsystem.ОказаниеУслуг.CommandInterface" id="0c1c769b-1f8b-48c3-96b4-69705d44a0b1.1" configVersion="360141e899e9654989ba4c92add60c6a00000000"/>
-		<Metadata name="Subsystem.РасчётЗарплаты" id="74f04a29-981a-4374-8b86-00b9319e9f53" configVersion="880549aba819b541ba6b0e073371b7e200000000"/>
+		<Metadata name="Subsystem.РасчётЗарплаты" id="74f04a29-981a-4374-8b86-00b9319e9f53" configVersion="0c8368c34b39444e869af58c9411c65d00000000"/>
 		<Metadata name="Subsystem.РасчётЗарплаты.CommandInterface" id="74f04a29-981a-4374-8b86-00b9319e9f53.1" configVersion="a22dd2161ab4ad42b9e5619a05b9865200000000"/>
 		<Metadata name="Subsystem.Склад" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4" configVersion="f519551f5539e940824b4446001bd2e400000000"/>
 		<Metadata name="Subsystem.Склад.CommandInterface" id="e7baa665-2156-405f-b1e8-e7b2d85b3ac4.1" configVersion="fd77def958d1bc4ca7400affcb4f265d00000000"/>

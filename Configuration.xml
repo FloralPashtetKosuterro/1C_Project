@@ -220,6 +220,7 @@
 			<Subsystem>РасчётЗарплаты</Subsystem>
 			<Catalog>ИнструментыДляПисьма</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Document>ДокументРасчётЗарплаты</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
