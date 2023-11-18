@@ -218,6 +218,7 @@
 			<Subsystem>Склад</Subsystem>
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>РасчётЗарплаты</Subsystem>
+			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>ИнструментыДляПисьма</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Document>ДокументРасчётЗарплаты</Document>
