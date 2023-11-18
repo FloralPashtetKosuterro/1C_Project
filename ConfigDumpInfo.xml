@@ -19,7 +19,7 @@
 		<Metadata name="CommonModule.РаботаСДокументами" id="29331885-00bc-449a-afa6-413efe996625" configVersion="cc0f62d4ac9ee443b36c71de338f2ca900000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="29331885-00bc-449a-afa6-413efe996625.0" configVersion="1b5c7e83b693934397bca9a73dbba3c300000000"/>
 		<Metadata name="Configuration.Конфигурация" id="41d2b399-631a-4445-b342-ae0481032e94" configVersion="50d5059c47b76649b395f337ea60dbe200000000"/>
-		<Metadata name="Document.ДокументРасчётЗарплаты" id="95955aa8-eaa7-4cad-9746-e7c8b034d07b" configVersion="ea17a0d69c43d8439ae86d95455218dd00000000">
+		<Metadata name="Document.ДокументРасчётЗарплаты" id="95955aa8-eaa7-4cad-9746-e7c8b034d07b" configVersion="2a1dd2027395b64885bf43545b9e115600000000">
 			<Metadata name="Document.ДокументРасчётЗарплаты.Attribute.РазмерЗП" id="1592d8e5-3098-4ea2-a6a9-7616f96e38ca"/>
 			<Metadata name="Document.ДокументРасчётЗарплаты.TabularSection.АкционныеПродажи" id="2aa9a1b3-04ac-444f-994c-4aa3bf1d3725"/>
 			<Metadata name="Document.ДокументРасчётЗарплаты.TabularSection.АкционныеПродажи.Attribute.НазваниеАкционногоПродукта" id="5ac1a6fd-b94f-4d1c-8752-ebfae9148de0"/>
@@ -28,8 +28,8 @@
 			<Metadata name="Document.ДокументРасчётЗарплаты.TabularSection.АкционныеПродажи.Attribute.КоличествоАкционногоПродукта" id="825a3af7-3a30-4719-b986-636bd989c5e2"/>
 			<Metadata name="Document.ДокументРасчётЗарплаты.TabularSection.АкционныеПродажи.Attribute.Сумма" id="c4746da6-1381-4cb3-ba45-fd89b9663694"/>
 		</Metadata>
-		<Metadata name="Document.ДокументРасчётЗарплаты.Form.ФормаДокумента" id="3d37542b-b9dd-4ed5-ae65-851e76b2f1b7" configVersion="0e44bcf34977384f9d35e8f1e1e919a800000000"/>
-		<Metadata name="Document.ДокументРасчётЗарплаты.Form.ФормаДокумента.Form" id="3d37542b-b9dd-4ed5-ae65-851e76b2f1b7.0" configVersion="a2ef9befa89ea940bc7687499b217dd900000000"/>
+		<Metadata name="Document.ДокументРасчётЗарплаты.Form.ФормаДокумента" id="18f63cd2-72fa-4627-8d5e-a37c3f17a750" configVersion="af0e95bc06e65c4b888c8b85e4a4a05000000000"/>
+		<Metadata name="Document.ДокументРасчётЗарплаты.Form.ФормаДокумента.Form" id="18f63cd2-72fa-4627-8d5e-a37c3f17a750.0" configVersion="7f6671630388df4386d4d8947eb1341600000000"/>
 		<Metadata name="Document.ДокументРасчётЗарплаты.ObjectModule" id="95955aa8-eaa7-4cad-9746-e7c8b034d07b.0" configVersion="38de0d7a304abb4e8ce0175d0d4a9ea200000000"/>
 		<Metadata name="Language.Русский" id="2990306c-6542-49e9-9da0-c45dc2ec601e" configVersion="5f8a1ed9a773714ea052042dd59a401400000000"/>
 		<Metadata name="Subsystem.ОказаниеУслуг" id="0c1c769b-1f8b-48c3-96b4-69705d44a0b1" configVersion="572a4d6375dced43a9a662c870720ee800000000"/>
