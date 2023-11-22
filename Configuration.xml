@@ -223,6 +223,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Document>ДокументРасчётЗарплаты</Document>
 			<Document>ОказаниеУслуги</Document>
+			<Report>ОтчётОЗарплате</Report>
 			<AccumulationRegister>ЗарплатныйРегистр</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
