@@ -224,6 +224,7 @@
 			<Document>ДокументРасчётЗарплаты</Document>
 			<Document>ОказаниеУслуги</Document>
 			<Report>ОтчётОЗарплате</Report>
+			<Report>ОтчётОСотруднике</Report>
 			<AccumulationRegister>ЗарплатныйРегистр</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
