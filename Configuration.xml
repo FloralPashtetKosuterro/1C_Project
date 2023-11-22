@@ -222,6 +222,8 @@
 			<Catalog>ИнструментыДляПисьма</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Document>ДокументРасчётЗарплаты</Document>
+			<Document>ОказаниеУслуги</Document>
+			<AccumulationRegister>ЗарплатныйРегистр</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

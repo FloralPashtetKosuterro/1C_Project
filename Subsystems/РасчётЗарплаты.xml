@@ -18,6 +18,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ДокументРасчётЗарплаты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ЗарплатныйРегистр</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
